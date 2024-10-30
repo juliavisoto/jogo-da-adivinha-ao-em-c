@@ -1,1 +1,1 @@
-# jogo-da-adivinha-ao-em-c
+# jogoadivinhacaoem
